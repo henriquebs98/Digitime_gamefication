@@ -1,0 +1,187 @@
+C:\Users\re034491\Documents\Visual Studio 2012\Projects\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.Properties.Resources.resources
+C:\Users\re034491\Documents\Visual Studio 2012\Projects\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csproj.GenerateResource.Cache
+C:\Users\re034491\Documents\Visual Studio 2012\Projects\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.exe.config
+C:\Users\re034491\Documents\Visual Studio 2012\Projects\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.exe
+C:\Users\re034491\Documents\Visual Studio 2012\Projects\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.pdb
+C:\Users\re034491\Documents\Visual Studio 2012\Projects\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.exe
+C:\Users\re034491\Documents\Visual Studio 2012\Projects\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.pdb
+C:\Users\aluno\Desktop\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.exe.config
+C:\Users\aluno\Desktop\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.exe
+C:\Users\aluno\Desktop\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.pdb
+C:\Users\aluno\Desktop\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.exe
+C:\Users\aluno\Desktop\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.pdb
+C:\Users\aluno\Desktop\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.Inicial.resources
+C:\Users\aluno\Desktop\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.Jogo.resources
+C:\Users\aluno\Desktop\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.Properties.Resources.resources
+C:\Users\aluno\Desktop\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.Fim.resources
+C:\Users\re034491\Desktop\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.exe.config
+C:\Users\re034491\Desktop\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.exe
+C:\Users\re034491\Desktop\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.pdb
+C:\Users\re034491\Desktop\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.exe
+C:\Users\re034491\Desktop\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.pdb
+C:\Users\re034491\Desktop\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.Fim.resources
+C:\Users\re034491\Desktop\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.Inicial.resources
+C:\Users\re034491\Desktop\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.Jogo.resources
+C:\Users\re034491\Desktop\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.Properties.Resources.resources
+C:\Users\re034491\Desktop\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csproj.GenerateResource.Cache
+C:\Users\re034491\Desktop\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.SplashScreen.resources
+E:\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.exe.config
+E:\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.exe
+E:\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.pdb
+E:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csprojResolveAssemblyReference.cache
+E:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.Properties.Resources.resources
+E:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csproj.GenerateResource.Cache
+E:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.exe
+E:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.pdb
+C:\Users\re034491\Desktop\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csprojResolveAssemblyReference.cache
+C:\Users\re034491\documents\visual studio 2012\Projects\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.FM_Concluido.resources
+C:\Users\re034491\documents\visual studio 2012\Projects\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.FM_Inicial.resources
+C:\Users\re034491\documents\visual studio 2012\Projects\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.FM_Jogo.resources
+C:\Users\re034491\documents\visual studio 2012\Projects\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_GameOver.resources
+C:\Users\re034491\documents\visual studio 2012\Projects\UNIP_APS\UNIP_APS\bin\Debug\Interop.WMPLib.dll
+C:\Users\re034491\documents\visual studio 2012\Projects\UNIP_APS\UNIP_APS\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\re034491\documents\visual studio 2012\Projects\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csprojResolveAssemblyReference.cache
+C:\Users\re034491\documents\visual studio 2012\Projects\UNIP_APS\UNIP_APS\obj\Debug\Interop.WMPLib.dll
+C:\Users\re034491\documents\visual studio 2012\Projects\UNIP_APS\UNIP_APS\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\re034491\documents\visual studio 2012\Projects\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csproj.ResolveComReference.cache
+G:\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.exe.config
+G:\UNIP_APS\UNIP_APS\obj\Debug\Interop.WMPLib.dll
+G:\UNIP_APS\UNIP_APS\obj\Debug\AxInterop.WMPLib.dll
+G:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csproj.ResolveComReference.cache
+G:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.exe
+G:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.pdb
+G:\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.exe
+G:\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.pdb
+G:\UNIP_APS\UNIP_APS\bin\Debug\Interop.WMPLib.dll
+G:\UNIP_APS\UNIP_APS\bin\Debug\AxInterop.WMPLib.dll
+G:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.FM_Concluido.resources
+G:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_GameOver.resources
+G:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.FM_Inicial.resources
+G:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.FM_Jogo.resources
+G:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.Properties.Resources.resources
+G:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csproj.GenerateResource.Cache
+E:\UNIP_APS\UNIP_APS\bin\Debug\Interop.WMPLib.dll
+E:\UNIP_APS\UNIP_APS\bin\Debug\AxInterop.WMPLib.dll
+E:\UNIP_APS\UNIP_APS\obj\Debug\Interop.WMPLib.dll
+E:\UNIP_APS\UNIP_APS\obj\Debug\AxInterop.WMPLib.dll
+E:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csproj.ResolveComReference.cache
+E:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_EscolhaComponente.resources
+E:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_Oque.resources
+E:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.FM_Concluido.resources
+E:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_GameOver.resources
+E:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.FM_Inicial.resources
+E:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.FM_Jogo.resources
+E:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_Principal.resources
+D:\Usuários\Henrique\Área de Trabalho\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csprojResolveAssemblyReference.cache
+D:\Usuários\Henrique\Área de Trabalho\UNIP_APS\UNIP_APS\obj\Debug\Interop.WMPLib.dll
+D:\Usuários\Henrique\Área de Trabalho\UNIP_APS\UNIP_APS\obj\Debug\AxInterop.WMPLib.dll
+D:\Usuários\Henrique\Área de Trabalho\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csproj.ResolveComReference.cache
+D:\Usuários\Henrique\Área de Trabalho\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_EscolhaComponente.resources
+D:\Usuários\Henrique\Área de Trabalho\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_Oque.resources
+D:\Usuários\Henrique\Área de Trabalho\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.FM_Concluido.resources
+D:\Usuários\Henrique\Área de Trabalho\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_GameOver.resources
+D:\Usuários\Henrique\Área de Trabalho\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.FM_Inicial.resources
+D:\Usuários\Henrique\Área de Trabalho\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.FM_Jogo.resources
+D:\Usuários\Henrique\Área de Trabalho\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.Properties.Resources.resources
+D:\Usuários\Henrique\Área de Trabalho\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_Principal.resources
+D:\Usuários\Henrique\Área de Trabalho\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csproj.GenerateResource.Cache
+D:\Usuários\Henrique\Área de Trabalho\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.exe
+D:\Usuários\Henrique\Área de Trabalho\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.pdb
+D:\Usuários\Henrique\Área de Trabalho\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.exe.config
+D:\Usuários\Henrique\Área de Trabalho\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.exe
+D:\Usuários\Henrique\Área de Trabalho\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.pdb
+D:\Usuários\Henrique\Área de Trabalho\UNIP_APS\UNIP_APS\bin\Debug\Interop.WMPLib.dll
+D:\Usuários\Henrique\Área de Trabalho\UNIP_APS\UNIP_APS\bin\Debug\AxInterop.WMPLib.dll
+G:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_EscolhaComponente.resources
+G:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_Oque.resources
+G:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_Principal.resources
+G:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csprojResolveAssemblyReference.cache
+G:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.Jogo.FM_Instrucoes.resources
+E:\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.Jogo.FM_Instrucoes.resources
+E:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.exe.config
+E:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\Interop.WMPLib.dll
+E:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\AxInterop.WMPLib.dll
+E:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csproj.ResolveComReference.cache
+E:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.exe
+E:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.pdb
+E:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.exe
+E:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.pdb
+E:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\bin\Debug\Interop.WMPLib.dll
+E:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\bin\Debug\AxInterop.WMPLib.dll
+E:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csprojResolveAssemblyReference.cache
+E:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_EscolhaComponente.resources
+E:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_Oque.resources
+E:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.FM_Concluido.resources
+E:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_GameOver.resources
+E:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.FM_Inicial.resources
+E:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.Jogo.FM_Instrucoes.resources
+E:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.FM_Jogo.resources
+E:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.Properties.Resources.resources
+E:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_Principal.resources
+E:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csproj.GenerateResource.Cache
+G:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.exe.config
+G:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\Interop.WMPLib.dll
+G:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\AxInterop.WMPLib.dll
+G:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csproj.ResolveComReference.cache
+G:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.exe
+G:\Faculdade\APS\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.pdb
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csprojResolveAssemblyReference.cache
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\Interop.WMPLib.dll
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\AxInterop.WMPLib.dll
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csproj.ResolveComReference.cache
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_EscolhaComponente.resources
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_Oque.resources
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.FM_Concluido.resources
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_GameOver.resources
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.FM_Inicial.resources
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.Jogo.FM_Instrucoes.resources
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.FM_Jogo.resources
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.Properties.Resources.resources
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_Principal.resources
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csproj.GenerateResource.Cache
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.exe
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.pdb
+D:\Usuários\Henrique\Área de Trabalho\APS\UNIP_APS\UNIP_APS\obj\Debug\Interop.WMPLib.dll
+D:\Usuários\Henrique\Área de Trabalho\APS\UNIP_APS\UNIP_APS\obj\Debug\AxInterop.WMPLib.dll
+D:\Usuários\Henrique\Área de Trabalho\APS\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csproj.ResolveComReference.cache
+D:\Usuários\Henrique\Área de Trabalho\APS\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_EscolhaComponente.resources
+D:\Usuários\Henrique\Área de Trabalho\APS\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_Oque.resources
+D:\Usuários\Henrique\Área de Trabalho\APS\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.FM_Concluido.resources
+D:\Usuários\Henrique\Área de Trabalho\APS\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_GameOver.resources
+D:\Usuários\Henrique\Área de Trabalho\APS\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.FM_Inicial.resources
+D:\Usuários\Henrique\Área de Trabalho\APS\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.Jogo.FM_Instrucoes.resources
+D:\Usuários\Henrique\Área de Trabalho\APS\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.FM_Jogo.resources
+D:\Usuários\Henrique\Área de Trabalho\APS\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.Properties.Resources.resources
+D:\Usuários\Henrique\Área de Trabalho\APS\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_Principal.resources
+D:\Usuários\Henrique\Área de Trabalho\APS\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csproj.GenerateResource.Cache
+D:\Usuários\Henrique\Área de Trabalho\APS\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.exe
+D:\Usuários\Henrique\Área de Trabalho\APS\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.pdb
+D:\Usuários\Henrique\Área de Trabalho\APS\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.exe.config
+D:\Usuários\Henrique\Área de Trabalho\APS\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.exe
+D:\Usuários\Henrique\Área de Trabalho\APS\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.pdb
+D:\Usuários\Henrique\Área de Trabalho\APS\UNIP_APS\UNIP_APS\bin\Debug\Interop.WMPLib.dll
+D:\Usuários\Henrique\Área de Trabalho\APS\UNIP_APS\UNIP_APS\bin\Debug\AxInterop.WMPLib.dll
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\Jogo de digitação - GameFication sustentabilidade\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.exe.config
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\Jogo de digitação - GameFication sustentabilidade\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.exe
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\Jogo de digitação - GameFication sustentabilidade\UNIP_APS\UNIP_APS\bin\Debug\UNIP_APS.pdb
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\Jogo de digitação - GameFication sustentabilidade\UNIP_APS\UNIP_APS\bin\Debug\Interop.WMPLib.dll
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\Jogo de digitação - GameFication sustentabilidade\UNIP_APS\UNIP_APS\bin\Debug\AxInterop.WMPLib.dll
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\Jogo de digitação - GameFication sustentabilidade\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csprojAssemblyReference.cache
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\Jogo de digitação - GameFication sustentabilidade\UNIP_APS\UNIP_APS\obj\Debug\Interop.WMPLib.dll
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\Jogo de digitação - GameFication sustentabilidade\UNIP_APS\UNIP_APS\obj\Debug\AxInterop.WMPLib.dll
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\Jogo de digitação - GameFication sustentabilidade\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csproj.ResolveComReference.cache
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\Jogo de digitação - GameFication sustentabilidade\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_EscolhaComponente.resources
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\Jogo de digitação - GameFication sustentabilidade\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_Oque.resources
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\Jogo de digitação - GameFication sustentabilidade\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.FM_Concluido.resources
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\Jogo de digitação - GameFication sustentabilidade\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_GameOver.resources
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\Jogo de digitação - GameFication sustentabilidade\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.FM_Inicial.resources
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\Jogo de digitação - GameFication sustentabilidade\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.Jogo.FM_Instrucoes.resources
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\Jogo de digitação - GameFication sustentabilidade\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.FM_Jogo.resources
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\Jogo de digitação - GameFication sustentabilidade\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.Properties.Resources.resources
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\Jogo de digitação - GameFication sustentabilidade\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.WF.FM_Principal.resources
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\Jogo de digitação - GameFication sustentabilidade\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csproj.GenerateResource.cache
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\Jogo de digitação - GameFication sustentabilidade\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.csproj.CoreCompileInputs.cache
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\Jogo de digitação - GameFication sustentabilidade\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.exe
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\Jogo de digitação - GameFication sustentabilidade\UNIP_APS\UNIP_APS\obj\Debug\UNIP_APS.pdb

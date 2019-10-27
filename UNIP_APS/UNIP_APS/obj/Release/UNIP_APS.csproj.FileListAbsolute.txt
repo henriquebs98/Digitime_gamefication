@@ -1,0 +1,79 @@
+C:\Users\re034491\Desktop\UNIP_APS\UNIP_APS\bin\Release\UNIP_APS.exe.config
+C:\Users\re034491\Desktop\UNIP_APS\UNIP_APS\bin\Release\UNIP_APS.exe
+C:\Users\re034491\Desktop\UNIP_APS\UNIP_APS\bin\Release\UNIP_APS.pdb
+C:\Users\re034491\Desktop\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.Fim.resources
+C:\Users\re034491\Desktop\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.Inicial.resources
+C:\Users\re034491\Desktop\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.Jogo.resources
+C:\Users\re034491\Desktop\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.Properties.Resources.resources
+C:\Users\re034491\Desktop\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.SplashScreen.resources
+C:\Users\re034491\Desktop\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.csproj.GenerateResource.Cache
+C:\Users\re034491\Desktop\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.exe
+C:\Users\re034491\Desktop\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.pdb
+C:\Users\re034491\Documents\Visual Studio 2012\Projects\UNIP_APS\UNIP_APS\bin\Release\UNIP_APS.exe.config
+C:\Users\re034491\Documents\Visual Studio 2012\Projects\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.exe
+C:\Users\re034491\Documents\Visual Studio 2012\Projects\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.pdb
+C:\Users\re034491\Documents\Visual Studio 2012\Projects\UNIP_APS\UNIP_APS\bin\Release\UNIP_APS.exe
+C:\Users\re034491\Documents\Visual Studio 2012\Projects\UNIP_APS\UNIP_APS\bin\Release\UNIP_APS.pdb
+C:\Users\re034491\Documents\Visual Studio 2012\Projects\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.csprojResolveAssemblyReference.cache
+C:\Users\re034491\Documents\Visual Studio 2012\Projects\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.FM_Concluido.resources
+C:\Users\re034491\Documents\Visual Studio 2012\Projects\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.FM_Inicial.resources
+C:\Users\re034491\Documents\Visual Studio 2012\Projects\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.FM_Jogo.resources
+C:\Users\re034491\Documents\Visual Studio 2012\Projects\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.Properties.Resources.resources
+C:\Users\re034491\Documents\Visual Studio 2012\Projects\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.csproj.GenerateResource.Cache
+G:\UNIP_APS\UNIP_APS\bin\Release\UNIP_APS.exe.config
+G:\UNIP_APS\UNIP_APS\obj\Release\Interop.WMPLib.dll
+G:\UNIP_APS\UNIP_APS\obj\Release\AxInterop.WMPLib.dll
+G:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.csproj.ResolveComReference.cache
+G:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.exe
+G:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.pdb
+G:\UNIP_APS\UNIP_APS\bin\Release\UNIP_APS.exe
+G:\UNIP_APS\UNIP_APS\bin\Release\UNIP_APS.pdb
+G:\UNIP_APS\UNIP_APS\bin\Release\Interop.WMPLib.dll
+G:\UNIP_APS\UNIP_APS\bin\Release\AxInterop.WMPLib.dll
+G:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.csprojResolveAssemblyReference.cache
+G:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.WF.FM_EscolhaComponente.resources
+G:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.WF.FM_Oque.resources
+G:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.FM_Concluido.resources
+G:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.WF.FM_GameOver.resources
+G:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.FM_Inicial.resources
+G:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.FM_Jogo.resources
+G:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.Properties.Resources.resources
+G:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.WF.FM_Principal.resources
+G:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.csproj.GenerateResource.Cache
+E:\UNIP_APS\UNIP_APS\bin\Release\UNIP_APS.exe.config
+E:\UNIP_APS\UNIP_APS\obj\Release\Interop.WMPLib.dll
+E:\UNIP_APS\UNIP_APS\obj\Release\AxInterop.WMPLib.dll
+E:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.csproj.ResolveComReference.cache
+E:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.exe
+E:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.pdb
+E:\UNIP_APS\UNIP_APS\bin\Release\UNIP_APS.exe
+E:\UNIP_APS\UNIP_APS\bin\Release\UNIP_APS.pdb
+E:\UNIP_APS\UNIP_APS\bin\Release\Interop.WMPLib.dll
+E:\UNIP_APS\UNIP_APS\bin\Release\AxInterop.WMPLib.dll
+E:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.csprojResolveAssemblyReference.cache
+E:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.WF.FM_EscolhaComponente.resources
+E:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.WF.FM_Oque.resources
+E:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.FM_Concluido.resources
+E:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.WF.FM_GameOver.resources
+E:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.FM_Inicial.resources
+E:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.WF.Jogo.FM_Instrucoes.resources
+E:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.FM_Jogo.resources
+E:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.Properties.Resources.resources
+E:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.WF.FM_Principal.resources
+E:\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.csproj.GenerateResource.Cache
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.csprojResolveAssemblyReference.cache
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Release\Interop.WMPLib.dll
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Release\AxInterop.WMPLib.dll
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.csproj.ResolveComReference.cache
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.WF.FM_EscolhaComponente.resources
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.WF.FM_Oque.resources
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.FM_Concluido.resources
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.WF.FM_GameOver.resources
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.FM_Inicial.resources
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.WF.Jogo.FM_Instrucoes.resources
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.FM_Jogo.resources
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.Properties.Resources.resources
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.WF.FM_Principal.resources
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.csproj.GenerateResource.Cache
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.exe
+D:\Usuários\Henrique\Área de Trabalho\APS finalizada\UNIP_APS\UNIP_APS\obj\Release\UNIP_APS.pdb

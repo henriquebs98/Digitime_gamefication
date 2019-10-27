@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DC8C25DD-732D-44E1-9E76-AE2B238E3FB2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UNIP_APS</RootNamespace>
+    <AssemblyName>UNIP_APS</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Introducao\Computador.cs" />
+    <Compile Include="Classes\Introducao\Eletronico.cs" />
+    <Compile Include="Classes\Introducao\Impressora.cs" />
+    <Compile Include="Classes\Introducao\Monitor.cs" />
+    <Compile Include="Classes\Introducao\Pilha.cs" />
+    <Compile Include="Classes\Introducao\Placa.cs" />
+    <Compile Include="WF\Introducao\FM_EscolhaComponente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WF\Introducao\FM_EscolhaComponente.Designer.cs">
+      <DependentUpon>FM_EscolhaComponente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WF\Introducao\FM_Oque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WF\Introducao\FM_Oque.Designer.cs">
+      <DependentUpon>FM_Oque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WF\Jogo\FM_Concluido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WF\Jogo\FM_Concluido.Designer.cs">
+      <DependentUpon>FM_Concluido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WF\Jogo\FM_GameOver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WF\Jogo\FM_GameOver.Designer.cs">
+      <DependentUpon>FM_GameOver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WF\Jogo\FM_Inicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WF\Jogo\FM_Inicial.Designer.cs">
+      <DependentUpon>FM_Inicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WF\Jogo\FM_Instrucoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WF\Jogo\FM_Instrucoes.Designer.cs">
+      <DependentUpon>FM_Instrucoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WF\Jogo\FM_Jogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WF\Jogo\FM_Jogo.Designer.cs">
+      <DependentUpon>FM_Jogo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Jogo\ListaJogador.cs" />
+    <Compile Include="Classes\Jogo\Jogador.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WF\Introducao\FM_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WF\Introducao\FM_Principal.Designer.cs">
+      <DependentUpon>FM_Principal.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="WF\Introducao\FM_EscolhaComponente.resx">
+      <DependentUpon>FM_EscolhaComponente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WF\Introducao\FM_Oque.resx">
+      <DependentUpon>FM_Oque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WF\Jogo\FM_Concluido.resx">
+      <DependentUpon>FM_Concluido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WF\Jogo\FM_GameOver.resx">
+      <DependentUpon>FM_GameOver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WF\Jogo\FM_Inicial.resx">
+      <DependentUpon>FM_Inicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WF\Jogo\FM_Instrucoes.resx">
+      <DependentUpon>FM_Instrucoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WF\Jogo\FM_Jogo.resx">
+      <DependentUpon>FM_Jogo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="WF\Introducao\FM_Principal.resx">
+      <DependentUpon>FM_Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
